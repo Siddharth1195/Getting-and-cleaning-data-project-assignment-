@@ -1,12 +1,3 @@
-# About R script
-The run_analysis.R performs the 5 steps required for the project assignment. These are the steps that it performs:
-1.	Downloading and unzipping the dataset if not already downloaded.
-2.	Reading all files.
-3.	Merging all the datasets.
-4.	Extract only the measurements with mean and standard deviation.
-5.	Use descriptive activity names to name the activities in the dataset.
-6.	Making a second tidy dataset.
-
 # Code Book
 This code book summarizes the data fields in Tidy_dataset.txt.
 ## Identifiers & measurements
