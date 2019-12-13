@@ -16,3 +16,12 @@ Extracts only the measurements on the mean and standard deviation for each measu
 Uses descriptive activity names to name the activities in the data set
 Appropriately labels the data set with descriptive variable names.
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+
+# About R script
+The run_analysis.R performs the 5 steps required for the project assignment. These are the steps that it performs:
+1.	Downloading and unzipping the dataset if not already downloaded.
+2.	Reading all files.
+3.	Merging all the datasets.
+4.	Extract only the measurements with mean and standard deviation.
+5.	Use descriptive activity names to name the activities in the dataset.
+6.	Making a second tidy dataset.
